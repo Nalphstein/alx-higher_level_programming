@@ -1,3 +1,1 @@
- 
-f
-
+text and heriteance
